@@ -4,14 +4,14 @@ _A Telegram bot to download youtube channel contents and upload them to telegram
 ## 📌 Deploy to Heroku
 Click below button to deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/YT-Channel-DL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CodeWithNeo/ytchannel)
 
 
 ## Local Deploying
 
 1. Clone the repo
    ```
-   git clone https://github.com/samadii/YT-Channel-DL
+   git clone https://github.com/CodeWithNeo/ytchannel
    ```
 
 2. Enter the directory
